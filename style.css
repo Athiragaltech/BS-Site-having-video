@@ -1,0 +1,68 @@
+
+
+
+.dec li{
+list-style: none;
+
+}
+
+.data{
+    position: absolute !important;
+    top: 70% !important;
+    left: 20% !important;
+}
+.Bor
+{
+    border: 3px solid yellow;
+}
+.back{
+    background-image: url(img/nnnn.jpg) !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+
+}
+.foot
+{
+    background-color: yellow !important;
+}
+.textfont
+{
+    font-family: 'Metal';font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+}
+.data1{
+   
+    color: azure;
+    font-family: 'Metal';
+    text-align: center;
+    font-size:x-large;
+
+}
+.bor{
+    font-family: 'Metal';
+    width: 300px;
+    height: 240px;
+    border:  5px solid yellow;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    margin-left: 179px;
+    margin-top: 111px;
+}
+.bor1{
+    font-family: 'Metal';
+    width: 300px;
+    height: 210px;
+    border:  5px solid yellow;
+    padding: 10px;
+    background-color: white;
+    color: black;
+    margin-left: 179px;
+    margin-top: 100px;
+}
+
+
+
+    
